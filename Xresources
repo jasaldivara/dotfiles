@@ -19,4 +19,25 @@ Zutty.color13:                 #ff5c8f
 Zutty.color14:                 #53fde9
 Zutty.color15:                 #fce8c3
 
+XTerm*foreground:	#ffbbbb
+XTerm*background:	#111122
+XTerm*font:		9x15
+
+
+XTerm*color0:                  #1c1b19
+XTerm*color1:                  #ef2f27
+XTerm*color2:                  #519f50
+XTerm*color3:                  #fbb829
+XTerm*color4:                  #2c78bf
+Xterm*color5:                  #e02c6d
+XTerm*color6:                  #0aaeb3
+XTerm*color7:                  #d0bfa1
+XTerm*color8:                  #918175
+XTerm*color9:                  #f75341
+XTerm*color10:                 #98bc37
+XTerm*color11:                 #fed06e
+XTerm*color12:                 #68a8e4
+XTerm*color13:                 #ff5c8f
+XTerm*color14:                 #53fde9
+XTerm*color15:                 #fce8c3
 
